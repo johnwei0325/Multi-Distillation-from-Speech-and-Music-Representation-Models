@@ -1,0 +1,35 @@
+optimizer:
+  betas:
+  - 0.9
+  - 0.98
+  eps: 1.0e-06
+  lr: 0.0002
+  name: AdamW_with_schedule
+  warmup_proportion: 0.07
+  weight_decay: 1.0e-06
+pretrain_expert:
+  datarc:
+    data_stats:
+      fbank_mean: -4.615277596840262
+      fbank_std: 3.360682519086203
+      wav_mean: -9.3908800007092e-13
+      wav_std: 0.16258983314037323
+    file_path: /home/twsgxyc199/ycevan/mdd/s3prl/s3prl/data/len_for_bucket
+    libri_root: /home/twsgxyc199/ycevan/mdd/dataset/LibriSpeech
+    max_timestep: 0
+    num_workers: 12
+    sets:
+    - librispeech960
+    - music4all
+    train_batch_size: 24
+runner:
+  fp16: true
+  gradient_accumulate_steps: 1
+  gradient_clipping: 5.0
+  log_step: 50
+  max_keep: 10
+  n_epochs: -1
+  num_workers: 24
+  save_step: 5000
+  surgery: false
+  total_steps: 200000
