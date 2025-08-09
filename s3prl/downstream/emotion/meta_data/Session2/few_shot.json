@@ -1,0 +1,410 @@
+{
+    "labels": {
+        "neu": 0,
+        "hap": 1,
+        "ang": 2,
+        "sad": 3
+    },
+    "meta_data": [
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro08/Ses04M_impro08_M013.wav",
+            "label": "neu",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_M011.wav",
+            "label": "sad",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_script03_1/Ses03F_script03_1_M011.wav",
+            "label": "hap",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F041.wav",
+            "label": "ang",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_impro06/Ses03F_impro06_F002.wav",
+            "label": "sad",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_M016.wav",
+            "label": "hap",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_M000.wav",
+            "label": "hap",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M010.wav",
+            "label": "hap",
+            "speaker": "Ses05M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F003.wav",
+            "label": "neu",
+            "speaker": "Ses05M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F025.wav",
+            "label": "neu",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F013.wav",
+            "label": "ang",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_M026.wav",
+            "label": "ang",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_script03_2/Ses04M_script03_2_M036.wav",
+            "label": "ang",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M034.wav",
+            "label": "ang",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_script02_1/Ses04M_script02_1_M012.wav",
+            "label": "neu",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M018.wav",
+            "label": "neu",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M020.wav",
+            "label": "ang",
+            "speaker": "Ses01M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_M040.wav",
+            "label": "hap",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_F017.wav",
+            "label": "hap",
+            "speaker": "Ses01M"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M024.wav",
+            "label": "sad",
+            "speaker": "Ses01M"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F024.wav",
+            "label": "hap",
+            "speaker": "Ses01M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_impro05a/Ses03M_impro05a_M017.wav",
+            "label": "ang",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_script01_1/Ses04M_script01_1_F032.wav",
+            "label": "neu",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F027.wav",
+            "label": "hap",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_script03_2/Ses05F_script03_2_M039.wav",
+            "label": "ang",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M020.wav",
+            "label": "hap",
+            "speaker": "Ses01F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F005.wav",
+            "label": "sad",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro02/Ses05F_impro02_M031.wav",
+            "label": "sad",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_F000.wav",
+            "label": "hap",
+            "speaker": "Ses01F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_impro03/Ses03M_impro03_F025.wav",
+            "label": "hap",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script02_1/Ses04F_script02_1_M033.wav",
+            "label": "hap",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script03_1/Ses04F_script03_1_F005.wav",
+            "label": "hap",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_M041.wav",
+            "label": "hap",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro02/Ses04M_impro02_M008.wav",
+            "label": "neu",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F008.wav",
+            "label": "neu",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F019.wav",
+            "label": "sad",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_M016.wav",
+            "label": "sad",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F034.wav",
+            "label": "sad",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_F015.wav",
+            "label": "neu",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F003.wav",
+            "label": "sad",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_F019.wav",
+            "label": "ang",
+            "speaker": "Ses01F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_F013.wav",
+            "label": "neu",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M001.wav",
+            "label": "hap",
+            "speaker": "Ses01M"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M002.wav",
+            "label": "hap",
+            "speaker": "Ses01F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_F026.wav",
+            "label": "hap",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_impro05b/Ses03M_impro05b_F027.wav",
+            "label": "neu",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro05/Ses04M_impro05_M039.wav",
+            "label": "ang",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F010.wav",
+            "label": "hap",
+            "speaker": "Ses01M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_M012.wav",
+            "label": "neu",
+            "speaker": "Ses05M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_script01_2/Ses03F_script01_2_M007.wav",
+            "label": "neu",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_F042.wav",
+            "label": "ang",
+            "speaker": "Ses05M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro03/Ses05F_impro03_F060.wav",
+            "label": "hap",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05M_impro07/Ses05M_impro07_F027.wav",
+            "label": "neu",
+            "speaker": "Ses05M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_impro07/Ses03F_impro07_F022.wav",
+            "label": "hap",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F009.wav",
+            "label": "neu",
+            "speaker": "Ses05M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_M032.wav",
+            "label": "sad",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_M012.wav",
+            "label": "ang",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M016.wav",
+            "label": "neu",
+            "speaker": "Ses01F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_F007.wav",
+            "label": "hap",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_F017.wav",
+            "label": "ang",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M033.wav",
+            "label": "hap",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_M024.wav",
+            "label": "hap",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_impro01/Ses03M_impro01_M017.wav",
+            "label": "ang",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03F_script03_2/Ses03F_script03_2_M002.wav",
+            "label": "ang",
+            "speaker": "Ses03F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M000.wav",
+            "label": "neu",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F025.wav",
+            "label": "neu",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_F016.wav",
+            "label": "sad",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_script01_2/Ses04M_script01_2_F012.wav",
+            "label": "ang",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_script01_1/Ses05F_script01_1_F007.wav",
+            "label": "sad",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F012.wav",
+            "label": "ang",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F031.wav",
+            "label": "neu",
+            "speaker": "Ses05M"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M048.wav",
+            "label": "neu",
+            "speaker": "Ses01F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro05/Ses04M_impro05_F000.wav",
+            "label": "neu",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_M021.wav",
+            "label": "hap",
+            "speaker": "Ses05F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04F_script02_2/Ses04F_script02_2_F014.wav",
+            "label": "ang",
+            "speaker": "Ses04F"
+        },
+        {
+            "path": "Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_F016.wav",
+            "label": "sad",
+            "speaker": "Ses04M"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_F033.wav",
+            "label": "sad",
+            "speaker": "Ses01M"
+        },
+        {
+            "path": "Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_F016.wav",
+            "label": "neu",
+            "speaker": "Ses01F"
+        },
+        {
+            "path": "Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M033.wav",
+            "label": "ang",
+            "speaker": "Ses03M"
+        },
+        {
+            "path": "Session5/sentences/wav/Ses05F_impro06/Ses05F_impro06_F013.wav",
+            "label": "sad",
+            "speaker": "Ses05F"
+        }
+    ]
+}
