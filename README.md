@@ -1,7 +1,5 @@
 <div align="center">
-<h1>Multi-Distillation </h1>
-<h3>Multi-Distillation from Speech and Music Representation Models</h3>
-
+# Multi-Distillation from Speech and Music Representation Models
 Jui-Chiang Wei, Yi-Cheng Lin, Fabian Ritter-Gutierrez, Hung-yi Lee
 
 Paper: ([arXiv 2501.16738](https://arxiv.org/abs/2501.16738))
