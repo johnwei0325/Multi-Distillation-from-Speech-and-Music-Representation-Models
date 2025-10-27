@@ -1,11 +1,8 @@
-<div align="center">
 # Multi-Distillation from Speech and Music Representation Models
 Jui-Chiang Wei, Yi-Cheng Lin, Fabian Ritter-Gutierrez, Hung-yi Lee
 
 Paper: ([arXiv 2501.16738](https://arxiv.org/abs/2501.16738))
 Paper: ([arXiv 2506.07237](https://arxiv.org/abs/2506.07237)
-
-</div>
 
 ## Abstract
 Real-world audio often mixes speech and music, yet models typically handle only one domain. This paper introduces a multi-teacher distillation framework that unifies speech and music models into a single one while significantly reducing model size. Our approach leverages the strengths of domain-specific teacher models, such as HuBERT for speech and MERT for music, and explores various strategies to balance both domains. Experiments across diverse tasks demonstrate that our model matches the performance of domain-specific models, showing the effectiveness of cross-domain distillation. Additionally, we conduct few-shot learning experiments, highlighting the need for general models in real-world scenarios where labeled data is limited. Our results show that our model not only performs on par with specialized models but also outperforms them in few-shot scenarios, proving that a cross-domain approach is essential and effective for diverse tasks with limited data.
