@@ -23,7 +23,7 @@ Real-world audio often mixes speech and music, yet models typically handle only 
    conda env create -f environment.yml
    ```
    We use conda to manage python environemnt.
-   #### Activate conda environment 
+   ### Activate conda environment 
    ```
    conda activate meta-perser
    ```
