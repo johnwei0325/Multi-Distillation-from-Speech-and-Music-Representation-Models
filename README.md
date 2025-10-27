@@ -25,7 +25,7 @@ Real-world audio often mixes speech and music, yet models typically handle only 
    We use conda to manage python environemnt.
 2. ### Activate conda environment 
    ```
-   conda activate meta-perser
+   conda activate mdd
    ```
 
 3. ### Download Teacher Model Checkpoints
