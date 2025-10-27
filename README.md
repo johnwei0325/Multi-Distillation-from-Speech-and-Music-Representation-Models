@@ -18,35 +18,35 @@ Real-world audio often mixes speech and music, yet models typically handle only 
 
 ## Getting Started
 
-1. **Install Dependencies**  
+1. ### Install Dependencies  
    ```
    conda env create -f environment.yml
    ```
    We use conda to manage python environemnt.
-   ### Activate conda environment 
+   #### Activate conda environment 
    ```
    conda activate meta-perser
    ```
 
-2. **Download Teacher Model Checkpoints**
+2. ### Download Teacher Model Checkpoints
    - [HuBERT-base (ls960)](https://huggingface.co/facebook/hubert-base-ls960)
    - [WavLM-base+](https://huggingface.co/microsoft/wavlm-base-plus)
    - [MERT-public-v0](https://huggingface.co/m-a-p/MERT-v0-public)
 
-3. **Prepare Data**
+3. ### Prepare Data
    - [LibriSpeech](https://www.openslr.org/12)
    - [Music4All](https://sites.google.com/view/contact4music4all)
 
-4. **Implementation**
+4. ### Implementation
    
    Multi-Distillation related code can be found in `s3prl/s3prl/pretrain/multi_distiller`.
 
-   - **Change to code directory:**  
+   - #### Change to code directory:  
      ```bash
      cd s3prl/s3prl
      ```
 
-   - **Pretrain (multi-teacher distillation):**  
+   - #### Pretrain (multi-teacher distillation):  
      ```bash
      python run_pretrain.py -u multi_distiller \
        -g config_model.yaml \
@@ -56,7 +56,7 @@ Real-world audio often mixes speech and music, yet models typically handle only 
      - `-g`: config yaml file  
      - `-n`: experiment name  
 
-   - **Downstream training / evaluation:**  
+   - #### Downstream training / evaluation:  
      ```bash
      python run_downstream.py -m train \
        -u multi_distiller_local \
