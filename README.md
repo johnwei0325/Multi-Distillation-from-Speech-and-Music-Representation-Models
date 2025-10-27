@@ -19,7 +19,14 @@ Real-world audio often mixes speech and music, yet models typically handle only 
 ## Getting Started
 
 1. **Install Dependencies**  
-   (Provide `requirements.txt` or list main packages)
+   ```
+   conda env create -f environment.yml
+   ```
+   We use conda to manage python environemnt.
+   ### Activate conda environment 
+   ```
+   conda activate meta-perser
+   ```
 
 2. **Download Teacher Model Checkpoints**
    - [HuBERT-base (ls960)](https://huggingface.co/facebook/hubert-base-ls960)
