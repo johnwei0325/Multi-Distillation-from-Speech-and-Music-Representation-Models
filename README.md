@@ -1,7 +1,6 @@
 # Multi-Distillation from Speech and Music Representation Models
 Jui-Chiang Wei, Yi-Cheng Lin, Fabian Ritter-Gutierrez, Hung-yi Lee
 
-Paper: ([arXiv 2501.16738](https://arxiv.org/abs/2501.16738))
 Paper: ([arXiv 2506.07237](https://arxiv.org/abs/2506.07237))
 
 ## Abstract
